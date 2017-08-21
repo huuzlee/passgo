@@ -8,14 +8,14 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ejcx/passgo/edit"
-	"github.com/ejcx/passgo/generate"
-	"github.com/ejcx/passgo/initialize"
-	"github.com/ejcx/passgo/insert"
-	"github.com/ejcx/passgo/pc"
-	"github.com/ejcx/passgo/pio"
-	"github.com/ejcx/passgo/show"
-	"github.com/ejcx/passgo/sync"
+	"github.com/huuzlee/passgo/edit"
+	"github.com/huuzlee/passgo/generate"
+	"github.com/huuzlee/passgo/initialize"
+	"github.com/huuzlee/passgo/insert"
+	"github.com/huuzlee/passgo/pc"
+	"github.com/huuzlee/passgo/pio"
+	"github.com/huuzlee/passgo/show"
+	"github.com/huuzlee/passgo/sync"
 )
 
 const (

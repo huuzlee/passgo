@@ -10,8 +10,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/ejcx/passgo/pc"
-	"github.com/ejcx/passgo/pio"
+	"github.com/huuzlee/passgo/pc"
+	"github.com/huuzlee/passgo/pio"
 )
 
 type searchType int

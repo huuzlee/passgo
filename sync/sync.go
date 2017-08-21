@@ -13,8 +13,8 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/ejcx/passgo/pc"
-	"github.com/ejcx/passgo/pio"
+	"github.com/huuzlee/passgo/pc"
+	"github.com/huuzlee/passgo/pio"
 )
 
 var (

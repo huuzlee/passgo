@@ -8,9 +8,9 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/ejcx/passgo/pc"
-	"github.com/ejcx/passgo/pio"
-	"github.com/ejcx/passgo/sync"
+	"github.com/huuzlee/passgo/pc"
+	"github.com/huuzlee/passgo/pio"
+	"github.com/huuzlee/passgo/sync"
 	"golang.org/x/crypto/nacl/box"
 )
 
